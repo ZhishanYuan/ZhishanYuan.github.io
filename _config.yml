@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Zhishan Yuan / Personal Homepage"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Zhishan Yuan"
+description              : &description "Senior Student at Huazhong University of Science and Technology, majoring in Artificial Intelligence."
 url                      : https://zhishanyuan.github.io/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ZhishanYuan/ZhishanYuan.github.io"
