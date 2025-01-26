@@ -13,7 +13,7 @@ I once went to Imperial College to attend Data Science Summer School in 2024, wh
 
 In my daily life, I am interested in sports, music and movies. I love both soccer and basketball, and I love to go to the gym. I enjoy listening to Rock and R&B in my leisure time.
 
-Now I am looking for a Computer Science PhD position starting from 2025 fall. You can find my curriculem Vitae here. [Curriculum Vitae](https://github.com/ZhishanYuan/ZhishanYuan.github.io/blob/master/assets/Curriculum_Vitae.pdf) If you are interested in me, feel free to contact me through email! 
+Now I am looking for a Computer Science PhD position starting from 2025 fall. You can find my curriculem Vitae here. [Curriculum Vitae](https://github.com/ZhishanYuan/ZhishanYuan.github.io/blob/master/assets/Curriculum_Vitae.pdf) If you are interested in me, feel free to contact me!
 
 Publication
 ======
