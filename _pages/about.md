@@ -23,9 +23,9 @@ Projects
 ======
 In this part, I put some side projects on this website. Hope it can be interesting to you!
 
-How to edit your site's GitHub repository
+Imperial College Summer School
 ------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+I attended Imperial Data Science Summer School in 2024 and accomplished Brain Tumor Segmentation based on UNet. I demonstrate my work report and the final result here. [Work report]() I hope AI can be ultilized to benefit human beings.
 
 Example: editing a markdown file for a talk
 ![Editing a markdown file for a talk](/images/editing-talk.png)
