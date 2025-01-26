@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Zhishan's Homepage!"
+title: "Welcome to Zhishan Yuan's Homepage!"
 author_profile: true
 redirect_from: 
   - /about/
