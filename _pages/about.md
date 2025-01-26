@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-Hi, everyone! My name is Zhishan Yuan. I am a senior student at Huazhong University of Science and Technology, majoring in Artificial Intelligence. During the last four years, I studyed hard and was lucky to get the honor called "Outstanding Undergraduate in terms of Academic Performance", which was only awarded to top 1% undergraduates at Huazhong University of Science and Technology.
+Hi, everyone! My name is Zhishan Yuan. I am a senior student at Huazhong University of Science and Technology, majoring in Artificial Intelligence. During the last four years, I studyed hard and was lucky to get the honor called "Outstanding Undergraduate in terms of Academic Performance", which was only awarded to top 1% undergraduates at Hust.
 
-I once went to Imperial College to attend Data Science Summer School and got Grade A in 2024, where I accomplished brain tumor segmentation based on UNet. Now I am working as an research intern at Lenovo, Shanghai [Lenovo Website](https://www.lenovofuturecenter.com/overview/shanghai), taking the responsibilty of evaluating LLMs on different datasets. My research interests broadly lie in machine learning and Artificial Intelligence.
+I once went to Imperial College to attend Data Science Summer School and got Grade A in 2024, where I accomplished brain tumor segmentation based on UNet. Now I am working as an research intern at Lenovo, Shanghai [Lenovo Website](https://www.lenovofuturecenter.com/overview/shanghai), taking the duty of evaluating LLMs on different datasets. My research interests broadly lie in machine learning and Artificial Intelligence.
 
-In my daily life, I am interested in sports, music and movies. I love both soccer and basketball, and I love to go to the gym to do some exercises. I love listening to Rock and R&B in my leisure time.
+In my daily life, I am interested in sports, music and movies. I love both soccer and basketball, and I love to go to the gym. I enjoy listening to Rock and R&B in my leisure time.
 
 Now I am looking for a Computer Science PhD position starting from 2025 fall. If you are interested in me, feel free to contact me through email! 
 
