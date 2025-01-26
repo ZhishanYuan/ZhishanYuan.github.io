@@ -12,7 +12,8 @@ redirect_from:
 Education
 ======
 * B.S. in Huazhong University of Science and Technology, Artificial Intelligence, 2025 (expected)
-  Major: Artificial Intelligence    Grade: 88.4/100
+  
+  Major: Artificial Intelligence    GPA: 88.4/100
 
 Intern experience
 ======
