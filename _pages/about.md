@@ -25,7 +25,7 @@ In this part, I put some side projects on this website. Hope it can be interesti
 
 Imperial College Summer School
 ------
-I attended Imperial Data Science Summer School in 2024 and accomplished Brain Tumor Segmentation based on UNet. I demonstrate my work report and the final result here. [Work report](https://github.com/ZhishanYuan/ZhishanYuan.github.io/blob/master/_pages/Go%20with%20the%20Unet%EF%BC%9AFocusing%20on%20Brain%20Tumor%20Segmentation(Group%20work%20report).pdf) I hope AI can be ultilized to benefit human beings in many aspects, especially in healthcare.
+I attended Imperial Data Science Summer School in 2024 and accomplished Brain Tumor Segmentation based on UNet. I demonstrate my work report and the final result here. I hope AI can be ultilized to benefit human beings in many aspects, especially in healthcare.
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+[Work report](https://github.com/ZhishanYuan/ZhishanYuan.github.io/blob/master/_pages/Go%20with%20the%20Unet%EF%BC%9AFocusing%20on%20Brain%20Tumor%20Segmentation(Group%20work%20report).pdf)
+
