@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Welcome to Zhishan's Homepage!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+Hi, everyone! My name is Zhishan Yuan. I am a senior student at Huazhong University of Science and Technology, majoring in Artificial Intelligence. Now I am working as an research intern at Lenovo, Shanghai[Lenovo Website](https://www.lenovofuturecenter.com/overview/shanghai), taking the responsibilty of evaluating LLMs on different datasets. My research interests broadly lie in machine learning and Artificial Intelligence. I once went to Imperial College to attend Data Science Summer School and got Grade A in 2024, where I accomplished brain tumor segmentation based on UNet. Now I am looking for a Computer Science PhD position starting from 2025 fall. If you are interested in me, feel free to contact me through email! 
 
 A data-driven personal website
 ======
