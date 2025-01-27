@@ -13,7 +13,7 @@ I once went to Imperial College to attend Data Science Summer School in 2024, wh
 
 In my daily life, I am interested in sports, music and movies. I love both soccer and basketball, and I love to go to the gym. I enjoy listening to Rock and R&B in my leisure time.
 
-Now I am looking for a Computer Science PhD position starting from 2025 fall. You can find my curriculem Vitae here. [Curriculum Vitae](https://github.com/ZhishanYuan/ZhishanYuan.github.io/blob/master/assets/Curriculum_Vitae.pdf) If you are interested in me, feel free to contact me!
+Now I am looking for a Computer Science PhD position starting from 2025 fall. You can find my curriculem Vitae here. [Curriculum Vitae](/assets/Curriculum_Vitae.pdf) If you are interested in me, feel free to contact me!
 
 Publication
 ======
@@ -29,8 +29,11 @@ I attended Imperial Data Science Summer School in 2024 and accomplished Brain Tu
 
 [Work report](/_pages/Go%20with%20the%20Unet%EF%BC%9AFocusing%20on%20Brain%20Tumor%20Segmentation(Group%20work%20report).pdf)
 
-[structure](/image/structure.png)
+The Structure of UNet
+![The Structure of UNet](/images/structure.png)
 
-[final result](/images/final%20result.png)
+The final result
+![The final result](/images/final%20result.png)
+
 
 
