@@ -9,3 +9,5 @@ location: "London, UK"
 ---
 
 At the final day at Imperial College Data Science Summer School, I did a presentation about brain tumor segmentation based on UNet.
+Presentation:
+![Presentation](/images/Presentation.png)
