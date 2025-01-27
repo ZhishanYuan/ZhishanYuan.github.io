@@ -27,9 +27,10 @@ Imperial College Summer School
 ------
 I attended Imperial Data Science Summer School in 2024 and accomplished Brain Tumor Segmentation based on UNet. I demonstrate my work report and the final result here. I hope AI can be ultilized to benefit human beings in many aspects, especially in healthcare.
 
-[Work report](https://github.com/ZhishanYuan/ZhishanYuan.github.io/blob/master/_pages/Go%20with%20the%20Unet%EF%BC%9AFocusing%20on%20Brain%20Tumor%20Segmentation(Group%20work%20report).pdf)
+[Work report](/_pages/Go%20with%20the%20Unet%EF%BC%9AFocusing%20on%20Brain%20Tumor%20Segmentation(Group%20work%20report).pdf)
 
-[Demonstration]
+[structure](/image/structure.png)
 
+[final result](/images/final%20result.png)
 
 
