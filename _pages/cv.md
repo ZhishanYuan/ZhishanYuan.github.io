@@ -34,17 +34,20 @@ Skills
 
 Publications
 ======
-
+Right now I don't have any publications, but I hope I can publish some high-quality papers during the PhD career.
   
 Talks
 ======
 Presentation at Imperial College Data Science Summer School  07/2024
 
 Topic: Brain tumor Segmentation Based on UNet
-  
-Teaching
-======
 
   
 Service and leadership
 ======
+The news centre in future technology college in HUST
+
+The leader of the department of new media operations 9/2023-9/2024
+
+Taking the responsibility of arranging the whole department and operating the wechat official account of future technology college at Hust.
+
