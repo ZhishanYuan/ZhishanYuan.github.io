@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in Huazhong University of Science and Technology, Artificial Intelligence, 2025 (expected)
   
-  Major: Artificial Intelligence    GPA: 88.4/100
+  * Major: Artificial Intelligence    GPA: 88.4/100
 
 Intern experience
 ======
@@ -40,12 +40,12 @@ Talks
 ======
 * Presentation at Imperial College Data Science Summer School   07/2024
 
-Topic: Brain tumor Segmentation Based on UNet
+  * Topic: Brain tumor Segmentation Based on UNet
 
   
 Service and leadership
 ======
 * The news centre in School of Future Technology at Huazhong University of Science and Technology   09/2023-09/2024
 
-As the leader of the department of new media operations, I took the responsibility of arranging the whole department and operating the wechat official account of future technology college at Hust.
+  * As the leader of the department of new media operations, I took the responsibility of arranging the whole department and operating the wechat official account of future technology college at Hust.
 
