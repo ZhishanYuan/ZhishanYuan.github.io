@@ -9,11 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
+
 Education
 ======
 * B.S. in Huazhong University of Science and Technology, Artificial Intelligence, 2025 (expected)
   
   * Major: Artificial Intelligence    GPA: 88.4/100
+
 
 Intern experience
 ======
@@ -32,9 +34,11 @@ Skills
   * scikit-learn
 * Matlab
 
+
 Publications
 ======
 * Right now I don't have any publications, but I hope I can publish some high-quality papers during my coming PhD career.
+
   
 Talks
 ======
