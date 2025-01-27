@@ -2,7 +2,7 @@
 title: "Brain Tumor Segmentation based on UNet"
 collection: talks
 type: "Talk"
-permalink: /talks/2012-03-01-talk-1
+permalink: /talks/Imperial College Summer School Presentation
 venue: "UK London, Imperial College Data Science Institute"
 date: 2024-07-19
 location: "London, UK"
