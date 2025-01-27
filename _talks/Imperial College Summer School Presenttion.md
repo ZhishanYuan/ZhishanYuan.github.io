@@ -8,5 +8,4 @@ date: 2024-07-19
 location: "London, UK"
 ---
 
-This is a description of your talk, which is a markdown file that can be all markdown-ified like any other post. Yay markdown!
-Talks1
+At the final day at Imperial College Data Science Summer School, I did a presentation about brain tumor segmentation based on UNet.
