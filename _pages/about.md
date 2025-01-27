@@ -9,7 +9,7 @@ redirect_from:
 
 Hi, everyone! My name is Zhishan Yuan. I am a senior student at Huazhong University of Science and Technology, majoring in Artificial Intelligence. During the last four years, I studyed hard and was lucky to get the honor called "Outstanding Undergraduate in terms of Academic Performance", which was only awarded to top 1% undergraduates at Hust.
 
-I once went to Imperial College to attend Data Science Summer School in 2024, where I accomplished brain tumor segmentation based on UNet. Now I am working as an research intern at Lenovo, Shanghai [Lenovo Website](https://www.lenovofuturecenter.com/overview/shanghai), taking the duty of evaluating LLMs on different datasets. My research interests broadly lie in machine learning and Artificial Intelligence.
+I once went to Imperial College to attend Data Science Summer School in 2024, where I accomplished brain tumor segmentation based on UNet. Now I am working as an research intern at Lenovo, Shanghai, taking the responsibility of evaluating LLMs on different datasets. My research interests broadly lie in machine learning and Artificial Intelligence.
 
 In my daily life, I am interested in sports, music and movies. I love both soccer and basketball, and I love to go to the gym. I enjoy listening to Rock and R&B in my leisure time.
 
@@ -29,11 +29,11 @@ I attended Imperial Data Science Summer School in 2024 and accomplished Brain Tu
 
 [Work report](/_pages/Go%20with%20the%20Unet%EF%BC%9AFocusing%20on%20Brain%20Tumor%20Segmentation(Group%20work%20report).pdf)
 
-The Structure of UNet
-![The Structure of UNet](/images/structure.png)
-
-The final result
+The final result:
 ![The final result](/images/final%20result.png)
+
+Certification:
+![Certification](/images/certificate.png)
 
 
 
