@@ -13,7 +13,7 @@ I once went to Imperial College to attend Data Science Summer School in 2024, wh
 
 In my daily life, I am interested in sports, music and movies. I love both soccer and basketball, and I love to go to the gym. I enjoy listening to Rock and R&B in my leisure time.
 
-Now I am an incoming 25 fall CS PhD at Stevens Institute of Technology. You can find my curriculem Vitae here. [Curriculum Vitae](/assets/Curriculum_Vitae.pdf) If you are also from stevens, or an incoming stevenser, feel free to contact me!
+Now I am an incoming 25 fall CS PhD at Stevens Institute of Technology. You can find my curriculem Vitae here. [Curriculum Vitae](/assets/Curriculum_Vitae.pdf) If you are also from stevens, or an incoming stevenser, feel free to contact me via email or wechat!
 
 Publication
 ======
