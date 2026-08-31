@@ -7,7 +7,6 @@ excerpt: "A controlled study of whether medical LLMs rely on diagnosis as an int
 date: 2026-10-24
 venue: "Findings of EMNLP 2026"
 paperurl: "https://openreview.net/forum?id=hBtILJu0Lk"
-citation: "Zhishan Yuan, Tiago Almeida, Shudong Hao, Zining Zhu, Nickolas Elias Dawlabani, Ghazia Pervaiz, and Yue Ning. 2026. Diagnosis Before Treatment? Investigating Intermediate-Variable Reasoning in LLMs. Findings of EMNLP 2026."
 ---
 
 We study whether medical LLMs rely on diagnosis as an intermediate variable when selecting treatments. We construct a controlled phenotype--disease--drug benchmark and evaluate six 7B--8B LLMs using behavioral diagnosis interventions, held-out QLoRA path supervision, external validation, and auxiliary layer-wise localization.
