@@ -21,7 +21,7 @@ repository               : "ZhishanYuan/ZhishanYuan.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile1.png"
+  avatar           : "person.png"
   name             : "Zhishan Yuan"
   pronouns         :
   bio              : "Ph.D. student in Computer Science at Stevens Institute of Technology. Interested in LLM evaluation, medical AI, and model interpretability."
